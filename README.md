@@ -1,1 +1,1 @@
-# Bigscreen-Beyond-Valve-Index-Strap-Adapter
+Repo for making an Index strap fit on a Beyond, maybe with working audio.
