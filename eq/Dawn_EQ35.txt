@@ -1,0 +1,40 @@
+Filter Settings file
+
+Room EQ V5.20.14
+Dated: Oct 29, 2023 10:08:59 PM
+
+Notes: Set preamplification gain to -2.3db
+
+Equaliser: Configurable PEQ
+R Dawn non-EXCL
+Filter  1: ON  PK       Fc   80.00 Hz  Gain   8.00 dB  Q   0.85
+Filter  2: ON  PK       Fc   100.0 Hz  Gain   2.00 dB  Q   1.00
+Filter  3: ON  PK       Fc   159.0 Hz  Gain  -2.90 dB  Q   2.54
+Filter  4: ON  PK       Fc   209.0 Hz  Gain  -2.60 dB  Q   1.72
+Filter  5: ON  PK       Fc   306.0 Hz  Gain  -1.90 dB  Q   1.18
+Filter  6: ON  PK       Fc    1490 Hz  Gain  -1.00 dB  Q   1.64
+Filter  7: ON  PK       Fc    1788 Hz  Gain  -1.50 dB  Q   3.77
+Filter  8: ON  PK       Fc    2047 Hz  Gain  -0.60 dB  Q   5.82
+Filter  9: ON  PK       Fc    2541 Hz  Gain  -4.70 dB  Q   4.32
+Filter 10: ON  PK       Fc    3155 Hz  Gain  -7.60 dB  Q   3.43
+Filter 11: ON  PK       Fc    3827 Hz  Gain  -1.20 dB  Q   4.73
+Filter 12: ON  PK       Fc    4461 Hz  Gain  -2.90 dB  Q   4.42
+Filter 13: ON  PK       Fc    5442 Hz  Gain  -6.80 dB  Q   1.83
+Filter 14: ON  PK       Fc    9172 Hz  Gain  -3.50 dB  Q   3.16
+Filter 15: ON  PK       Fc   11827 Hz  Gain  -2.70 dB  Q   3.00
+Filter 16: ON  PK       Fc   13621 Hz  Gain  -1.70 dB  Q   3.00
+Filter 17: ON  PK       Fc   15158 Hz  Gain  -7.70 dB  Q   1.83
+Filter 18: ON  PK       Fc   19024 Hz  Gain  -6.60 dB  Q   1.24
+Filter 19: ON  None   
+Filter 20: OFF PK       Fc   65.00 Hz  Gain   4.00 dB  Q   0.65
+Filter 21: ON  None   
+Filter 22: ON  None   
+Filter 23: ON  None   
+Filter 24: ON  None   
+Filter 25: ON  None   
+Filter 26: ON  None   
+Filter 27: ON  None   
+Filter 28: ON  None   
+Filter 29: ON  None   
+Filter 30: ON  None   
+

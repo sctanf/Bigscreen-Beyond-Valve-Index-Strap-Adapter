@@ -1,0 +1,40 @@
+Filter Settings file
+
+Room EQ V5.20.14
+Dated: Nov 6, 2023 2:43:15 PM
+
+Notes:
+
+Equaliser: Configurable PEQ
+L 9038S non-EXCL
+Filter  1: ON  PK       Fc   76.00 Hz  Gain   8.50 dB  Q   1.50
+Filter  2: ON  PK       Fc   92.00 Hz  Gain   8.00 dB  Q   0.85
+Filter  3: ON  PK       Fc   184.0 Hz  Gain  -3.60 dB  Q   1.00
+Filter  4: ON  PK       Fc    1781 Hz  Gain  -1.60 dB  Q   3.12
+Filter  5: ON  PK       Fc    2682 Hz  Gain  -3.60 dB  Q   3.09
+Filter  6: ON  PK       Fc    3078 Hz  Gain  -5.80 dB  Q   2.50
+Filter  7: ON  PK       Fc    4474 Hz  Gain  -4.80 dB  Q   1.83
+Filter  8: ON  PK       Fc    5801 Hz  Gain  -4.30 dB  Q   2.90
+Filter  9: ON  PK       Fc    8924 Hz  Gain  -1.70 dB  Q   3.20
+Filter 10: ON  PK       Fc   12683 Hz  Gain  -3.00 dB  Q   2.91
+Filter 11: ON  PK       Fc   14648 Hz  Gain  -7.60 dB  Q   1.90
+Filter 12: ON  PK       Fc   19148 Hz  Gain  -5.50 dB  Q   2.20
+Filter 13: ON  None   
+Filter 14: ON  None   
+Filter 15: ON  None   
+Filter 16: ON  None   
+Filter 17: ON  None   
+Filter 18: ON  None   
+Filter 19: ON  None   
+Filter 20: ON  None   
+Filter 21: ON  None   
+Filter 22: ON  None   
+Filter 23: ON  None   
+Filter 24: ON  None   
+Filter 25: ON  None   
+Filter 26: ON  None   
+Filter 27: ON  None   
+Filter 28: ON  None   
+Filter 29: ON  None   
+Filter 30: ON  None   
+
