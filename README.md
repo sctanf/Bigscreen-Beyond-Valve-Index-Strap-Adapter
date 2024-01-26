@@ -26,4 +26,4 @@ Repo for making an Index strap fit on a Beyond, ~~maybe~~ with working audio.
 
 ![pogo pins](../../blob/main/images/pogo.jpg)
 
-![Index mount drawings](../../blob/main/images/index_strap_connectors.png)
+![Index mount drawings](../../blob/main/images/Index_strap_connectors.png)
