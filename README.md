@@ -20,8 +20,10 @@ Repo for making an Index strap fit on a Beyond, ~~maybe~~ with working audio.
 - Again positive side is toward the head, negative side is toward the front, remember to check how the wires were folded in the adapter
 - The intention is to use picoamp, but any sufficiently powerful DAC can be used, you ideally need around or at least 1W for ~6ohm impedance
 - Usually a headphone DAC provides much less power than theoretical at these lower impedance, but something rated at least 200mW for 32ohms should work, ymmv
-- For some common DACs or for software EQ there are a few presets and extra notes under [picoamp](https://github.com/sctanf/picoamp) repository if needed
+- For some common DACs or for software EQ there are a few presets and extra notes under [eq folder](../../tree/main/eq) and [picoamp](https://github.com/sctanf/picoamp) repository if needed
 
 ![Beyond with an Index strap](../../blob/main/images/DSC_0445.jpg)
 
 ![pogo pins](../../blob/main/images/pogo.jpg)
+
+![Index mount drawings](../../blob/main/images/index_strap_connectors.png)
