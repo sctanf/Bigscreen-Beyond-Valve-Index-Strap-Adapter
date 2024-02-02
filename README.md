@@ -22,7 +22,7 @@ Repo for making an Index strap fit on a Beyond, ~~maybe~~ with working audio.
 - Usually a headphone DAC provides much less power than theoretical at these lower impedance, but something rated at least 200mW for 32ohms should work, ymmv
 - For some common DACs or for software EQ there are a few presets and extra notes under [eq folder](../../tree/main/eq) and [picoamp](https://github.com/sctanf/picoamp) repository if needed
 
-![Beyond with an Index strap](../../blob/main/images/DSC_0445.jpg)
+![Beyond with an Index strap](../../blob/main/images/DSC_0479.jpg)
 
 ![pogo pins](../../blob/main/images/pogo.jpg)
 
