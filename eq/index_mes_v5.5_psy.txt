@@ -1,0 +1,8 @@
+Measured using IMM-6, 2-3cm distance, psychoacoustic, -1dB/oct slope
+Filter: ON PK Fc 64 Hz Gain 18 dB Q 0.7
+Filter: ON PK Fc 185 Hz Gain -6 dB Q 1.2
+Filter  1: ON  PK       Fc    2740 Hz  Gain  -9.70 dB  Q  1.382
+Filter  2: ON  PK       Fc    5204 Hz  Gain  -8.50 dB  Q  1.347
+Filter  3: ON  PK       Fc    7215 Hz  Gain   6.00 dB  Q  4.408
+Filter  4: ON  PK       Fc    7617 Hz  Gain  -6.40 dB  Q  2.168
+Filter  5: ON  PK       Fc   15127 Hz  Gain -11.00 dB  Q  1.063
